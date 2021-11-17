@@ -1,6 +1,14 @@
 # GitHub CLI Extension *collaborators*
 
-This is currently only implemented for GitHub organizations. Usage is simple:
+This is currently only implemented for GitHub organizations.
+
+## Installation
+To install use gh itself:
+```sh
+> gh extension install warpedpixel/gh-collaborators
+```
+## Usage
+Usage is simple:
 
 ```sh
 > gh collaborators SomeOrganizationIBelongTo
